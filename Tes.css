@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Koh+Santepheap&family=Montserrat&family=Yaldevi:wght@200&display=swap');
+
+*{
+    color: honeydew;
+}
+body{
+    background-image:url(https://informazone.com/wp-content/uploads/2017/06/freecreatives.com_.jpg);
+    background-repeat: no-repeat;
+     background-attachment: fixed; 
+    background    position: center;
+    background-size: cover;
+}
+div h1{
+    background-color: rgb(73, 64, 64);
+    width: 29%;
+    margin: auto;
+    font-style: italic;
+    border: 4px solid black;
+    color: wheat;
+    text-align: center;
+    
+    
+}
+div img{
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     border: 2px solid black;
+} 
+
+div h4{
+    font-style: italic;
+    text-align: center;
+    border: 2px solid black;
+    width: 7cm;
+    margin: auto;
+    background-color: grey;
+    font-size: 24px;
+}
+div.aku{
+    background-color: grey;
+    width: 25%;
+    border: 2px solid black;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+   margin: auto;
+}
+div.name{
+    background-color: grey;
+    width: 25%;
+    border: 2px solid black;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+   margin: auto;
+}
+div.hai{
+    background-color: grey;
+    width: 25%;
+    border:  2px solid black;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    margin: auto;
+}
+div.kai{
+    background-color: grey;
+    border: 2px solid black;
+    width: 50%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Montserrat', sans-serif;
+}
+div.fob{    
+     background-color: grey ;
+     border:2px solid black;
+     width: 274px;
+     height: 170px;
+     margin: auto;
+     font-family: 'Montserrat', sans-serif;
+    
+}
+div.poi{
+    margin: auto;
+    width: 50%;
+    border: 2px solid black;
+    background-color: gray;
+    font-family: 'Montserrat', sans-serif;
+}
+div.koi{
+    margin: auto;
+    width: 50%;
+    border: 2px solid black;
+    background-color: gray;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+div.kii{
+    background-color: grey;
+    width: 40%;
+    border: 2px solid black;
+    margin: auto;
+    font-family: 'Montserrat', sans-serif;
+    
+}
